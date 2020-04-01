@@ -11,12 +11,14 @@ This capstone analyzed U.S. public interest in vaccines using data from the Goog
 
 ## Technologies
 The following libraries were used:
-<ul>CPython 3.7.4</ul>
-<ul>IPython 7.8.0</ul>
-<ul>numpy 1.16.5</ul>
-<ul>pandas 0.25.1</ul>
-<ul>matplotlib 3.1.1</ul>
-<ul>seaborn 0.9.0</ul>
+<ul>
+  <li>CPython 3.7.4</li>
+  <li>IPython 7.8.0</li>
+  <li>numpy 1.16.5</li>
+  <li>pandas 0.25.1</li>
+  <li>matplotlib 3.1.1</li>
+  <li>seaborn 0.9.0</li>
+  </ul>
 
 ## Dataset
 ‘Health searches by U.S. Metropolitan Area, 2004-2017’ dataset (<a href="https://www.kaggle.com/GoogleNewsLab/health-searches-us-county">Google News Lab, 2018</a>) 
