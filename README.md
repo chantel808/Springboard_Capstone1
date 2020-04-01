@@ -9,9 +9,10 @@ This is my capstone project for Springboard's Data Science Career Track.
 ## General info
 This capstone analyzed U.S. public interest in vaccines using data from the Google Trends API, and explores interest levels across space and time. A predictive ARIMA model was created to forecast interest by state, which could help federal health organizations and national nonprofit organizations to make decisions about where to allocate resources for vaccine education.
 
+![Map of 2017 vaccine interest](https://github.com/chantel808/Springboard_Capstone1/blob/master/map_vaccine_2017.png)
 ## Technologies
 The following libraries were used:
-<ul>
+<ul type="square">
   <li>CPython 3.7.4</li>
   <li>IPython 7.8.0</li>
   <li>numpy 1.16.5</li>
