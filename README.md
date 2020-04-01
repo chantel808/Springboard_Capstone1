@@ -22,4 +22,4 @@ The following libraries were used:
   </ul>
 
 ## Dataset
-‘Health searches by U.S. Metropolitan Area, 2004-2017’ dataset (<a href="https://www.kaggle.com/GoogleNewsLab/health-searches-us-county">Google News Lab, 2018</a>) 
+‘Health searches by U.S. Metropolitan Area, 2004-2017’ dataset (<a href="https://www.kaggle.com/GoogleNewsLab/health-searches-us-county">Google News Lab, 2018</a>). CSV file also available in this repo <a href="https://github.com/chantel808/Springboard_Capstone1/blob/master/RegionalInterestByConditionOverTime.csv"> RegionalInterestByConditionOverTime.csv</a>.
